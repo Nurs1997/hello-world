@@ -1,2 +1,2 @@
 # hello-world
-beginning
+ Hello there! This is my first trial!
